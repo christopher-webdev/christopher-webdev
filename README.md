@@ -16,7 +16,7 @@ I'm always open to collaborating on interesting projects. If you're working on s
 
 ## 📫 How to Reach Me
 
-You can reach me via email at christopher_webdev@outlook.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-nwokwule-21876a287/) to start a conversation.
+You can reach me via email at christopher_webdev@outlook.com, or connect start a conversation.
 
 Looking forward to learning, connecting with fellow developers, and creating amazing web experiences together! 🚀
 
